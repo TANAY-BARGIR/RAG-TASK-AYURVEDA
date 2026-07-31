@@ -1,11 +1,10 @@
 # Document: Ayurvedic_acupressure.md
 
 ## Metadata
-- File Name: Ayurvedic_acupressure.md
 - title: "Ayurvedic acupressure"
-- categories:
-- - "Traditions"
 - date: 2017-06-12
+- location: "India"
+- ancient_books: "Charaka Samhita"
 
 ## Content
 # Ayurvedic acupressure
@@ -16,7 +15,7 @@ According to Charaka Samhita, an early text on Ayurveda (Indian traditional medi
 
 Ayurvedic acupressure talks about 10 elements – 5 physical and 5 metaphysical.
 
-5 physical elements: – [Dhatu](../concepts/Dhatu.md) (Space, Air, Fire, Water and Earth).
+5 physical elements: – Dhatu (Space, Air, Fire, Water and Earth).
 
 5 metaphysical elements: – Time, Direction, Mind, Soul and Tam (Origin).
 
@@ -36,11 +35,10 @@ The Acupressure shodh prashikshan evam upchar sansthan Allahabad is an non gover
 # Document: Beverage.md
 
 ## Metadata
-- File Name: Beverage.md
 - title: "Beverage"
-- categories:
-- - "Traditions"
 - date: 2017-06-19
+- location: "Global"
+- ancient_books: "Various Traditional Ayurvedic Texts"
 
 ### References & Links (from original document)
 ## References
@@ -58,7 +56,7 @@ The Acupressure shodh prashikshan evam upchar sansthan Allahabad is an non gover
 
 A drink or beverage  is a liquid intended for human consumption.
 
-Beverage are also prepare by herbs which is also used as [Ayurvedic medicine](../concepts/Ayurvedic_medicine.md).
+Beverage are also prepare by herbs which is also used as Ayurvedic medicine.
 
 In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain water, milk, juices, coffee, tea, and soft drinks. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the drug ethanol, have been part of human culture and development for 8,000 years.
 
@@ -69,11 +67,10 @@ Non-alcoholic drinks often signify drinks that would normally contain alcohol, s
 # Document: Coconut_Oil.md
 
 ## Metadata
-- File Name: Coconut_Oil.md
 - title: "Coconut Oil"
-- categories:
-- - "Traditions"
 - date: 2017-06-21
+- location: "India, Tropics"
+- ancient_books: "Sushruta Samhita"
 
 ### References & Links (from original document)
 ## External Links
@@ -82,18 +79,17 @@ Non-alcoholic drinks often signify drinks that would normally contain alcohol, s
 ## Content
 # Coconut Oil
 
-**EDIBLE PURE VIRGIN [Coconut](Coconut.md) OIL**
+**EDIBLE PURE VIRGIN Coconut OIL**
 
 ---
 
 # Document: Cow-dung.md
 
 ## Metadata
-- File Name: Cow-dung.md
 - title: "Cow-dung"
-- categories:
-- - "Traditions"
 - date: 2017-06-09
+- location: "India, Central Africa, Europe, Americas"
+- ancient_books: "Vedas, Hindu Scriptures"
 
 ### References & Links (from original document)
 ## References
@@ -131,11 +127,10 @@ Cow dung is also used in Hindu religious fire yajna as an important ingredient.
 # Document: Dhanvantari.md
 
 ## Metadata
-- File Name: Dhanvantari.md
 - title: "Dhanvantari"
-- categories:
-- - "Traditions"
 - date: 2020-01-22
+- location: "India"
+- ancient_books: "Vedas, Puranas"
 
 ### References & Links (from original document)
 ## References
@@ -167,11 +162,10 @@ Cow dung is also used in Hindu religious fire yajna as an important ingredient.
 # Document: Gurah.md
 
 ## Metadata
-- File Name: Gurah.md
 - title: "Gurah"
-- categories:
-- - "Traditions"
 - date: 2016-10-18
+- location: "Bantul, Yogyakarta, Indonesia"
+- ancient_books: "Traditional Javanese Texts"
 
 ## Content
 # Gurah
@@ -195,11 +189,10 @@ Some oral gurah preparations are sold, but these are more likely to be dangerous
 # Document: Madhu_-_Honey.md
 
 ## Metadata
-- File Name: Madhu_-_Honey.md
 - title: "Madhu - Honey"
-- categories:
-- - "Traditions"
 - date: 2018-08-22
+- location: "Global"
+- ancient_books: "Charaka Samhita, Sushruta Samhita"
 
 ### References & Links (from original document)
 ## References
@@ -261,11 +254,10 @@ Toxic honey may also result when bees are proximate to tutu bushes (Coriaria arb
 # Document: Miswak.md
 
 ## Metadata
-- File Name: Miswak.md
 - title: "Miswak"
-- categories:
-- - "Traditions"
 - date: 2016-10-18
+- location: "Arabian Peninsula, Horn of Africa, North Africa, Sahel, Indian Subcontinent, Central Asia, Southeast Asia"
+- ancient_books: "Islamic Hygienical Jurisprudence, Hadith"
 
 ## Content
 # Miswak
@@ -281,11 +273,10 @@ The miswak is predominant in Muslim-inhabited areas. It is commonly used in the 
 # Document: Nasya.md
 
 ## Metadata
-- File Name: Nasya.md
 - title: "Nasya"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "India"
+- ancient_books: "Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya"
 
 ### References & Links (from original document)
 ## References
@@ -306,12 +297,10 @@ Administration of medicated oil, herbal juice or other medicated formulations to
 # Document: Nasya_Oil.md
 
 ## Metadata
-- File Name: Nasya_Oil.md
 - title: "Nasya Oil"
-- categories:
-- - "Traditions"
-- - "Practices"
 - date: 2020-01-22
+- location: "India"
+- ancient_books: "Charaka Samhita, Sushruta Samhita"
 
 ### References & Links (from original document)
 ## References
@@ -334,11 +323,10 @@ It is one of the procedure in Panchakarma.
 # Document: Navarakizhi.md
 
 ## Metadata
-- File Name: Navarakizhi.md
 - title: "Navarakizhi"
-- categories:
-- - "Traditions"
 - date: 2016-10-25
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya"
 
 ## Content
 # Navarakizhi
@@ -354,11 +342,10 @@ Navarakkizhi is a special massage , which rejuvenates the body. It is very effec
 # Document: Netra_Sekam.md
 
 ## Metadata
-- File Name: Netra_Sekam.md
 - title: "Netra Sekam"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "India"
+- ancient_books: "Sushruta Samhita, Ashtanga Hridaya"
 
 ## Content
 # Netra Sekam
@@ -370,11 +357,10 @@ Cleaning the eyes with medicinal herbal extract or medicated milk is beneficial 
 # Document: Oil_Pulling.md
 
 ## Metadata
-- File Name: Oil_Pulling.md
 - title: "Oil Pulling"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "India"
+- ancient_books: "Charaka Samhita (Kavala Graha, Gandusha)"
 
 ### References & Links (from original document)
 ## References
@@ -405,11 +391,10 @@ In traditional Ayurveda, gargling treatments like kavala graha and gandusha are 
 # Document: Padabhyanga.md
 
 ## Metadata
-- File Name: Padabhyanga.md
 - title: "Padabhyanga"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "India"
+- ancient_books: "Charaka Samhita, Ashtanga Hridaya"
 
 ## Content
 # Padabhyanga
@@ -434,11 +419,10 @@ It is done with medicated oils as a part of life style concentrating on the pres
 # Document: Panchagavya.md
 
 ## Metadata
-- File Name: Panchagavya.md
 - title: "Panchagavya"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "India"
+- ancient_books: "Vedas, Ayurvedic Pharmacopoeia of India"
 
 ### References & Links (from original document)
 ## References
@@ -474,11 +458,10 @@ Few studies have been performed to test the efficacy of Panchagavya as a medical
 # Document: Panchakarma.md
 
 ## Metadata
-- File Name: Panchakarma.md
 - title: "Panchakarma"
-- categories:
-- - "Traditions"
 - date: 2021-12-06
+- location: "India"
+- ancient_books: "Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya"
 
 ### References & Links (from original document)
 ## References
@@ -509,7 +492,7 @@ The following process is followed before carrying out the Panchakarma procedure.
 
 ## ***The Procedure of Panchakarma***
 **Abhyanga** (Sanskrit: अभ्यंग or अभ्यङ्ग "oil massage") is a form of Ayurvedic medicine that involves massage of the body with large amounts of warm oil. The oil is often pre-medicated with herbs for specific conditions. Abhyanga can be done as part of the steps of panchakarma therapy, especially in the first stage: Purva Karma (pre-treatment), or as its own therapy.
-It is often followed by [svedana](svedana.md) therapy, a warm bath, yoga or laying out in the sun. Many times abhyanga is performed by two or more massage therapists working in sync but it can also be done by oneself. Oils used can vary depending on the season and the individuals constitution (prakrti) but commonly used oils include sesame, coconut, sunflower, mustard and almond. In addition to the oil abhyanga massage differs from many Western massage techniques in that it is not very deep.
+It is often followed by svedana therapy, a warm bath, yoga or laying out in the sun. Many times abhyanga is performed by two or more massage therapists working in sync but it can also be done by oneself. Oils used can vary depending on the season and the individuals constitution (prakrti) but commonly used oils include sesame, coconut, sunflower, mustard and almond. In addition to the oil abhyanga massage differs from many Western massage techniques in that it is not very deep.
 
 **Vamana Karma**, also known as medical emesis or medical vomiting, is one of the five Pradhana Karmas of Panchakarma which is used in treating Kaphaj disorders.
 Some clinical trials have used it as a treatment for depressive disorder.Some studies have shown its effectiveness for disorders of various systems of human body.It is used as a treatment for psoriasis.There are studies for its use in young prediabetics.The majority of the studies reviewed showed positive outcomes for panchakarma and allied therapies when compared to a control. Unfortunately, only a limited number of high-quality clinical trials have been conducted to date. Common limitations include low sample size, inadequate descriptions of randomization and blinding protocols, inadequate descriptions of adverse events, and nonstandard outcome measures. In spite of this, preliminary studies support the use of panchakarma and allied therapies and warrant additional large-scale research with rigorously designed trials.
@@ -572,11 +555,10 @@ snehana denote oily substance and therapy which is done using sneha is considere
 # Document: PatraPotaliSwedan.md
 
 ## Metadata
-- File Name: PatraPotaliSwedan.md
 - title: "PatraPotaliSwedan"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya"
 
 ## Content
 # PatraPotaliSwedan
@@ -588,11 +570,10 @@ It is a type of swedana (sudation )treatment in which the whole body or any spec
 # Document: Pinda_swedam.md
 
 ## Metadata
-- File Name: Pinda_swedam.md
 - title: "Pinda swedam"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya, Sushruta Samhita"
 
 ## Content
 # Pinda swedam
@@ -604,11 +585,10 @@ After applying the medicated oil over the whole body or any specific part, the m
 # Document: Pizhichil.md
 
 ## Metadata
-- File Name: Pizhichil.md
 - title: "Pizhichil"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya"
 
 ## Content
 # Pizhichil
@@ -620,11 +600,10 @@ This is a therapeutic process in which lukewarm medicated oil is poured all over
 # Document: Rasa_shastra.md
 
 ## Metadata
-- File Name: Rasa_shastra.md
 - title: "Rasa shastra"
-- categories:
-- - "Traditions"
 - date: 2018-08-23
+- location: "India"
+- ancient_books: "Charaka Samhita, Sushruta Samhita, Rasa Ratna Samuccaya"
 
 ## Content
 # Rasa shastra
@@ -634,18 +613,17 @@ In Ayurvedic medicine, the traditional medical lore of Hinduism, rasa shastra is
 ## Methods
 The methods of rasa shastra are contained in a number of Ayurvedic texts, including the Charaka Samhita and Susruta Samhita. An important feature is the use of metals, including several that are considered to be toxic in evidence-based medicine. In addition to mercury, gold, silver, iron, copper, tin, lead, zinc and bell metal are used. In addition to these metals, salts and other substances such as coral, seashells, and feathers are also used.[
 
-The usual means used to administer these substances is by preparations called bhasma, Sanskrit for "ash". Calcination, which is described in the literature of the art as shodhana, "purification", is the process used to prepare these bhasma for administration. Sublimation and the preparation of a mercury sulfide are also in use in the preparation of its materia medica. A variety of methods are used to achieve this. One involves the heating of thin sheets of metal and then immersing them in oil (taila), extract ([takra](takra.md)), cow urine (gomutra) and other substances. Others are calcined in crucibles heated with fires of cow dung (puttam). Ayurvedic practitioners believe that this process of purification removes undesirable qualities and enhances their therapeutic power.
+The usual means used to administer these substances is by preparations called bhasma, Sanskrit for "ash". Calcination, which is described in the literature of the art as shodhana, "purification", is the process used to prepare these bhasma for administration. Sublimation and the preparation of a mercury sulfide are also in use in the preparation of its materia medica. A variety of methods are used to achieve this. One involves the heating of thin sheets of metal and then immersing them in oil (taila), extract (takra), cow urine (gomutra) and other substances. Others are calcined in crucibles heated with fires of cow dung (puttam). Ayurvedic practitioners believe that this process of purification removes undesirable qualities and enhances their therapeutic power.
 
 ---
 
 # Document: Sattvic_diet.md
 
 ## Metadata
-- File Name: Sattvic_diet.md
 - title: "Sattvic diet"
-- categories:
-- - "Traditions"
 - date: 2016-10-18
+- location: "India"
+- ancient_books: "Yoga literature, Bhagavad Gita, Ayurvedic Texts"
 
 ## Content
 # Sattvic diet
@@ -665,11 +643,10 @@ Sattvic diet is thus meant to include food and eating habit that is "pure, essen
 # Document: Shankha.md
 
 ## Metadata
-- File Name: Shankha.md
 - title: "Shankha"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "India, Indian Ocean Region"
+- ancient_books: "Vedas, Hindu Scriptures, Buddhist Texts"
 
 ### References & Links (from original document)
 ## References
@@ -702,11 +679,10 @@ In the Western world, in the English language, the shell of this species is know
 # Document: Shilajit.md
 
 ## Metadata
-- File Name: Shilajit.md
 - title: "Shilajit"
-- categories:
-- - "Traditions"
 - date: 2016-10-18
+- location: "Himalayas, Tibet, Caucasus, Altai Mountains, Gilgit Baltistan"
+- ancient_books: "Charaka Samhita, Sushruta Samhita"
 
 ## Content
 # Shilajit
@@ -723,11 +699,10 @@ It is used in Ayurveda, the traditional Indian system of medicine. It has been r
 # Document: Sirodhara.md
 
 ## Metadata
-- File Name: Sirodhara.md
 - title: "Sirodhara"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya, Sushruta Samhita"
 
 ### References & Links (from original document)
 ## References
@@ -748,11 +723,10 @@ It is used in Ayurveda, the traditional Indian system of medicine. It has been r
 # Document: Sirovasti.md
 
 ## Metadata
-- File Name: Sirovasti.md
 - title: "Sirovasti"
-- categories:
-- - "Traditions"
 - date: 2016-10-25
+- location: "Kerala, India"
+- ancient_books: "Charaka Samhita, Ashtanga Hridaya"
 
 ## Content
 # Sirovasti
@@ -768,11 +742,10 @@ Sirovasti is an important procedure which is found to be very effective in trigi
 # Document: Sri_Lankan_traditional_medicine.md
 
 ## Metadata
-- File Name: Sri_Lankan_traditional_medicine.md
 - title: "Sri Lankan traditional medicine"
-- categories:
-- - "Traditions"
 - date: 2016-10-18
+- location: "Sri Lanka"
+- ancient_books: "Sarartha Sangrahaya"
 
 ## Content
 # Sri Lankan traditional medicine
@@ -790,11 +763,10 @@ Historically the Ayurvedic physicians enjoyed a noble position in the country's 
 # Document: Sutshekhar_Ras.md
 
 ## Metadata
-- File Name: Sutshekhar_Ras.md
 - title: "Sutshekhar Ras"
-- categories:
-- - "Traditions"
 - date: 2017-01-04
+- location: "India"
+- ancient_books: "Rasa Ratna Samuccaya, Ayurvedic Pharmacopoeia"
 
 ### References & Links (from original document)
 ## References
@@ -819,11 +791,10 @@ An Ayurvedic physician scrutinizes the symptoms and prepares medicines which bal
 # Document: Thalam.md
 
 ## Metadata
-- File Name: Thalam.md
 - title: "Thalam"
-- categories:
-- - "Traditions"
 - date: 2016-10-19
+- location: "Kerala, India"
+- ancient_books: "Ashtanga Hridaya"
 
 ## Content
 # Thalam
@@ -835,11 +806,10 @@ It is a therapeutic procedure done with herbal paste in almost all ayurvedic tre
 # Document: Tridosha.md
 
 ## Metadata
-- File Name: Tridosha.md
 - title: "Tridosha"
-- categories:
-- - "Traditions"
 - date: 2016-12-30
+- location: "India"
+- ancient_books: "Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya"
 
 ### References & Links (from original document)
 ## References
@@ -868,11 +838,10 @@ The central concept of Ayurvedic medicine is the theory that health exists when 
 # Document: Vrikshayurveda.md
 
 ## Metadata
-- File Name: Vrikshayurveda.md
 - title: "Vrikshayurveda"
-- categories:
-- - "Traditions"
 - date: 2019-07-20
+- location: "India"
+- ancient_books: "Vrikshayurveda of Surapala, Texts of Salihotra"
 
 ### References & Links (from original document)
 ## References
@@ -897,7 +866,7 @@ The central concept of Ayurvedic medicine is the theory that health exists when 
 
 ## Source
 We are making an attempt to gather the source text of Vrikshayurveda on Ayurwiki.org. Please contribute if you are able to, to complete the source text. The source text is available below:
-* [Source text of Vrikshayurveda](../Source-Vrikshayurveda.md)
+* Source text of Vrikshayurveda
 
 ## Sections
 Bhumi nirupana, Bijoptivithi, Padapavivaksa, Ropana vidhana, Nise canavidhi, Posana vidhi, Drumaraksa, Taru Cikitsa, Upavanakriya, Nivasa sanna taru Subhasubha Laksana, Taru Mahima and Citrikarana.
@@ -908,8 +877,7 @@ Bhumi nirupana, Bijoptivithi, Padapavivaksa, Ropana vidhana, Nise canavidhi, Pos
 1. *Aganthu*
 
 ## See Also
-* [Upavanavinoda](Upavanavinoda.md)
-* [Lokopakaram](Lokopakaram.md)
+* Upavanavinoda
+* Lokopakaram
 
 ---
-
