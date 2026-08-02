@@ -41,3 +41,17 @@ This project implements a **Citation-Backed Retrieval-Augmented Generation (RAG)
    ```bash
    python services/retrieval_pipeline.py
    ```
+
+### 5. Running as a FastAPI Microservice (`service_backend/`)
+To expose this RAG pipeline as a stateless API service for a frontend:
+1. Install additional dependencies:
+   ```bash
+   pip install fastapi uvicorn
+   ```
+2. Run the Uvicorn server from the **root** `RAG TASK` directory:
+   ```bash
+   uvicorn service_backend.app:app --reload
+   ```
+3. Test the endpoint:
+   - Make a POST request to `http://localhost:8000/ask` with JSON body: `{"question": "Your question here"}`
+   - Or explore the interactive Swagger UI at `http://localhost:8000/docs`
