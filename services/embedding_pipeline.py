@@ -7,6 +7,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Must match app.core.config.Settings.CHROMA_COLLECTION_NAME. LangChain's
+# Chroma wrapper silently defaults to a collection named "langchain" if this
+# isn't passed explicitly, which previously caused the API's retriever (which
+# looks up a named collection) to find nothing.
+COLLECTION_NAME = "ayurveda_texts"
+
 def load_documents(path):
     with open(path,'r',encoding='utf-8') as f:
         content  = f.read()
@@ -75,7 +81,8 @@ def create_vector_store(chunks, persist_directory="db/chroma_db"):
     vectorstore = Chroma.from_documents(
         documents=chunks,
         embedding=embedding_model,
-        persist_directory=persist_directory, 
+        persist_directory=persist_directory,
+        collection_name=COLLECTION_NAME,
         collection_metadata={"hnsw:space": "cosine"}
     )
     print("--- Finished creating vector store ---")
@@ -98,7 +105,8 @@ def main():
         embedding_model = NVIDIAEmbeddings(model="nvidia/nv-embedqa-e5-v5")
         vectorstore = Chroma(
             persist_directory=persistent_directory,
-            embedding_function=embedding_model, 
+            embedding_function=embedding_model,
+            collection_name=COLLECTION_NAME,
             collection_metadata={"hnsw:space": "cosine"}
         )
         print(f"Loaded existing vector store with {vectorstore._collection.count()} documents")
